@@ -1,0 +1,40 @@
+$ git log
+commit 69f85cd71b29124a1e2810da75e06f8007834580 (HEAD -> master, origin/master, origin/bug3, bug3)
+Merge: e11ad33 c537613
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 18:12:22 2023 +0200
+
+    Merge branch 'bug3' of https://github.com/danielagrozdanovska/SI_2023_lab1_213056 into bug3
+
+commit e11ad33f7319d9a558b13027cf26e00865ad3f6b
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 14:09:15 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 541bcf53edbf79830259c0ab3fa0ef920c12145b
+Merge: df7dd4e 1d34ee1
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 15:15:47 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 1d34ee16ce262db47a40f32a4201dd85fee28e49 (origin/bug2, bug2)
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 14:12:57 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c5376137db6d6eee171116ac4cb860ec8d865aa4
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 14:09:15 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit df7dd4e96aa5eaba474cc4d4ed8f44bf43773d71 (origin/bug1, bug1)
+Author: danielagrozdanovska <dgrozdanovska30@gmail.com>
+Date:   Wed Mar 29 13:50:53 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 174b309b8d19a3599304bc2569ddff7435779a7e
